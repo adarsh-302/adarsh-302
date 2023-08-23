@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm adarsh kumar</h1>
-<h3 align="center">A passionate software developer/electronic engineer from India</h3>
+<h1 align="center"> adarsh kumar</h1>
+
+<h3 align="center">A software developer/electronic engineer from India</h3>
 
 - 📫 How to reach me **adarshkumarbihrauna@gmail.com**
 
