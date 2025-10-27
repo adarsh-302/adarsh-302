@@ -1,6 +1,6 @@
 <h1 align="center"> adarsh kumar</h1>
 
-<h3 align="center">A software developer/electronic engineer from India</h3>
+<h3 align="center">A Embedded / IOT / HardWare Design</h3>
 
 - 📫 How to reach me **adarshkumarbihrauna@gmail.com**
 
